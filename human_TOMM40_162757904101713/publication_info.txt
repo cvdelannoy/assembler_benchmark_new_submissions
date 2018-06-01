@@ -1,0 +1,7 @@
+authors="B. Honeydew"
+organism="human TOMM40"
+basecaller="Albacore 2.2.7"
+kit="SQK-LSK108"
+flowcell="FLO-MIN106"
+fork_account=lanno001
+fork_address=git@github.com:lanno001/assembler_benchmark_new_submissions
