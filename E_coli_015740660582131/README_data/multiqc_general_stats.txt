@@ -1,0 +1,2 @@
+Sample	QUAST_mqc-generalstats-Total_length	QUAST_mqc-generalstats-N50	assembler benchmark CPU times_mqc-generalstats-CPU_time
+minimap2_miniasm	2506984.0	307611.0	0:00:15
